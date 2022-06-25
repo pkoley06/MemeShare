@@ -3,5 +3,5 @@
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false    
-*.js linguist-language=kotlin
+*.kotlin linguist-language=kotlin
 
