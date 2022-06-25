@@ -5,5 +5,5 @@
 *.xml linguist-detectable=true    
 *.kotlin linguist-language=kotlin
 *.java linguist-language=java
-*.xml linguist-language=xml
+# *.xml linguist-language=xml
 
